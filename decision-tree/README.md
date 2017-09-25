@@ -1,0 +1,1 @@
+https://juliocprocha.wordpress.com/2017/03/19/decision-trees-com-sklearn-parte-1/
